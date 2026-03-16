@@ -1,92 +1,104 @@
 <h1 align="center">Hi 👋, I'm Saket Gupta</h1>
-<h3 align="center">AI Developer | Automation Engineer | Building Intelligent Systems</h3>
+<h3 align="center">Developer building automation tools, intelligent systems and practical software solutions</h3>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I build **AI-powered systems, automation pipelines, and intelligent applications** that solve real-world problems.
+I enjoy building **real-world software systems** that combine **automation, data processing, and intelligent workflows**.
 
-- 🤖 Developing **AI assistants, automation systems, and RAG pipelines**
-- 🧠 Passionate about **Machine Learning, LLMs, and Intelligent Systems**
-- 🔧 Building tools that combine **AI + Automation + Real-world deployment**
-- 🌍 Focused on creating **practical AI products rather than just prototypes**
+My work spans across **AI tools, automation pipelines, developer utilities, and backend systems**.  
+I focus on building **practical products that solve real problems**, not just experimental projects.
 
----
+Currently exploring and building systems around:
 
-## 🧠 Current Focus
-
-- AI Automation Systems  
-- Retrieval Augmented Generation (RAG)  
-- AI Agents & LLM Applications  
-- Intelligent Developer Tools  
+- Automation Pipelines
+- Retrieval Augmented Generation (RAG)
+- Developer Productivity Tools
+- Intelligent Assistants
+- Scalable backend services
 
 ---
 
-## 🔥 Deployed / Major Projects
+## 🚀 Projects
 
 ### 🧑‍💻 KongKitec
-**AI-powered Facial Attendance Recognition System**
+**Facial Attendance Recognition System**
 
-- Real-time face recognition
-- Automated attendance logging
-- Built for institutional deployment
+A real-time face recognition based attendance system designed for automated logging and institutional use.
+
+Tech Used:
+`Python • OpenCV • Computer Vision • Automation`
 
 ---
 
 ### 🎥 yt-transcript-refiner
-AI system that **extracts and refines YouTube transcripts** for better content analysis and summarization.
+A tool that extracts and refines **YouTube transcripts** for better readability, processing and downstream analysis.
+
+Tech Used:
+`Python • NLP • Data Processing`
 
 ---
 
 ### ⚖️ LawAgent
-An **AI legal assistant bot** that helps process and understand legal queries.
+An AI-powered legal assistant chatbot designed to help interpret and interact with legal information.
+
+Tech Used:
+`TypeScript • APIs • LLM Integration`
 
 ---
 
 ### 🤖 RoleBot
-Customizable **ChatGPT-style chatbot** built with **Streamlit and OpenAI APIs**.
+A customizable **ChatGPT-style chatbot interface** built using Streamlit and OpenAI APIs.
+
+Tech Used:
+`Python • Streamlit • OpenAI API`
 
 ---
 
 ### 📄 Resume Scanner
-AI-powered resume evaluation system that:
+An NLP-based resume analysis system that compares resumes with job descriptions using semantic similarity.
 
-- Uses **NLP and semantic similarity**
-- Matches candidates to job descriptions
-- Built using **spaCy + NLP pipelines**
+Tech Used:
+`Python • spaCy • NLP • Streamlit`
 
 ---
 
-### ⚙️ Web Automation Pipeline
-Currently building **AI-driven automation workflows** for automated content and process generation.
+### ⚙️ Web Automation Systems
+Currently building automation pipelines for **content processing, workflow automation, and intelligent system integrations.**
 
 ---
 
 ## 🛠 Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=python,react,nodejs,tailwind,git,linux,opencv,tensorflow,flask,mysql)
+### Languages
+`Python` • `Java` • `C++` • `JavaScript` • `SQL`
+
+### Frameworks & Tools
+`Streamlit` • `Firebase` • `Git` • `REST APIs`
+
+### AI / Data
+`NLP` • `spaCy` • `OpenAI APIs` • `RAG Systems`
+
+### Systems & Platforms
+`Linux` • `Automation Workflows`
 
 ---
 
-## 📊 GitHub Stats
+## 📚 Currently Exploring
 
-![Saket's GitHub stats](https://github-readme-stats.vercel.app/api?username=saket0x07&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=saket0x07&theme=tokyonight)
+- Retrieval Augmented Generation (RAG)
+- AI Agents
+- Automation Systems
+- Scalable Backend Architectures
 
 ---
 
 ## 🌐 Connect With Me
 
-- GitHub: https://github.com/saket0x07
-- LinkedIn: (add your linkedin)
-- Email: (add email)
+GitHub:  
+https://github.com/saket0x07
 
 ---
 
-⭐ *Building intelligent systems, one project at a time.*
+⭐ *Always building. Always learning.*
