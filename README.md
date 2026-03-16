@@ -22,7 +22,7 @@ Currently exploring and building systems around:
 
 ## 🚀 Projects
 
-### 🧑‍💻 KongKitec
+### 🧑‍💻 KongKnitec
 **Facial Attendance Recognition System**
 
 A real-time face recognition based attendance system designed for automated logging and institutional use.
